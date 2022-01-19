@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bf00a36510eb46e8aa37e3d3e350df2, type: 3}
+  m_Name: Shady Gossip #3
+  m_EditorClassIdentifier: 
+  _active: 0
+  _message: Also, the new captain just moved into the fort! He had a soldier guard
+    the entrance, he's over there in the tan clothes. If only I had a pass to enter!
+  quest: {fileID: 11400000, guid: b1820d4c2d4ab446089cc3094ed0c4f4, type: 2}
+  activeOnStates: 00000000
+  triggerQuest: {fileID: 0}
+  triggerState: 1
+  triggerOnStates: 00000000

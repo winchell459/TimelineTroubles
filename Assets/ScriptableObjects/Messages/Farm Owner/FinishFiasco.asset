@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bf00a36510eb46e8aa37e3d3e350df2, type: 3}
+  m_Name: FinishFiasco
+  m_EditorClassIdentifier: 
+  _active: 0
+  _message: Hey, thanks for the help. Head back to the harbor, I heard of two girls
+    causing drama over nothing. I'd like for them to be taught a lesson.
+  quest: {fileID: 11400000, guid: 7a894c52855f14b30bb9449a939a968e, type: 2}
+  activeOnStates: 04000000
+  triggerQuest: {fileID: 11400000, guid: 7a894c52855f14b30bb9449a939a968e, type: 2}
+  triggerState: 5
+  triggerOnStates: 04000000

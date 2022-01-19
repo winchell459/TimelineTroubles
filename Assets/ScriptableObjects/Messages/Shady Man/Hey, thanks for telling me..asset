@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bf00a36510eb46e8aa37e3d3e350df2, type: 3}
+  m_Name: Hey, thanks for telling me.
+  m_EditorClassIdentifier: 
+  _active: 0
+  _message: 'You''re saying that those ladies over there are saying i''m an escaped
+    slave. Well, thanks for telling me. People like them shouldn''t gossip at all. '
+  quest: {fileID: 11400000, guid: cab1fd360a45644f8b562dec3132f32b, type: 2}
+  activeOnStates: 02000000
+  triggerQuest: {fileID: 0}
+  triggerState: 4
+  triggerOnStates: 02000000

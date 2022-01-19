@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bf00a36510eb46e8aa37e3d3e350df2, type: 3}
+  m_Name: You've done me a favor.
+  m_EditorClassIdentifier: 
+  _active: 0
+  _message: All you need to do with the pass is go to the fort; I'd like you to take
+    this package to the captain. He's the one in black clothes. I'll repay the favor
+    to you. Promise.
+  quest: {fileID: 11400000, guid: cab1fd360a45644f8b562dec3132f32b, type: 2}
+  activeOnStates: 05000000
+  triggerQuest: {fileID: 11400000, guid: b1820d4c2d4ab446089cc3094ed0c4f4, type: 2}
+  triggerState: 2
+  triggerOnStates: 00000000
