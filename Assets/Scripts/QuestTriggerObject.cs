@@ -14,6 +14,9 @@ public class QuestTriggerObject : MonoBehaviour
     [SerializeField] private bool destroyOnTriggered;
     [SerializeField] private InventoryObject objectNeeded;
 
+    [SerializeField] private QuestTriggerObject[] NeededQuestTriggerObjects;
+    public bool destroyed;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -26,10 +29,24 @@ public class QuestTriggerObject : MonoBehaviour
         {
             if (checkOnStates(triggerOnStates))
             {
-                triggerQuest.State = triggerState;
-                destroyCheck();
+                destroyed = true;
+                if(checkNeededQuestTriggerObjects()) triggerQuest.State = triggerState;
+                Destroy(gameObject);
             }
         }
+    }
+
+    private bool checkNeededQuestTriggerObjects()
+    {
+        bool completed = true;
+        foreach(QuestTriggerObject questTriggerObject in NeededQuestTriggerObjects)
+        {
+            Debug.Log(questTriggerObject);
+            if (questTriggerObject != null && questTriggerObject.gameObject != gameObject && !questTriggerObject.destroyed) completed = false;
+        }
+        
+
+        return completed;
     }
 
     private void destroyCheck()
