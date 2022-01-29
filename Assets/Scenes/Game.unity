@@ -199,6 +199,17 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 63115592}
   m_CullTransparentMesh: 1
+--- !u!114 &81105478 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+  m_PrefabInstance: {fileID: 822090434}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34a08a5c1b6654c4b95bba5ea05320e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &164373106
 GameObject:
   m_ObjectHideFlags: 0
@@ -404,6 +415,82 @@ PrefabInstance:
       propertyPath: objectNeeded
       value: 
       objectReference: {fileID: 768152614}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.data[1]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[1]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[2]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[3]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[4]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[5]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[6]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[7]
+      value: 
+      objectReference: {fileID: 81105478}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[8]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[9]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[10]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[11]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[12]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[13]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[14]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[15]
+      value: 
+      objectReference: {fileID: 81105478}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
 --- !u!1001 &311109476
@@ -465,6 +552,82 @@ PrefabInstance:
       propertyPath: objectNeeded
       value: 
       objectReference: {fileID: 768152614}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.data[1]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[1]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[2]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[3]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[4]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[5]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[6]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[7]
+      value: 
+      objectReference: {fileID: 81105478}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[8]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[9]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[10]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[11]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[12]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[13]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[14]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[15]
+      value: 
+      objectReference: {fileID: 81105478}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
 --- !u!1001 &323990472
@@ -522,6 +685,86 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: objectNeeded
+      value: 
+      objectReference: {fileID: 768152614}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.data[1]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[1]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[2]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[3]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[4]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[5]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[6]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[7]
+      value: 
+      objectReference: {fileID: 81105478}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[8]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[9]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[10]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[11]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[12]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[13]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[14]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[15]
+      value: 
+      objectReference: {fileID: 81105478}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
 --- !u!1001 &496479393
@@ -579,8 +822,99 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: objectNeeded
+      value: 
+      objectReference: {fileID: 768152614}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.data[1]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[1]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[2]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[3]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[4]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[5]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[6]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[7]
+      value: 
+      objectReference: {fileID: 81105478}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[8]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[9]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[10]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[11]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[12]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[13]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[14]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[15]
+      value: 
+      objectReference: {fileID: 81105478}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+--- !u!114 &508177014 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+  m_PrefabInstance: {fileID: 285819167}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34a08a5c1b6654c4b95bba5ea05320e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -723,6 +1057,82 @@ PrefabInstance:
       propertyPath: objectNeeded
       value: 
       objectReference: {fileID: 768152614}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.data[1]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[1]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[2]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[3]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[4]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[5]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[6]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[7]
+      value: 
+      objectReference: {fileID: 81105478}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[8]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[9]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[10]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[11]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[12]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[13]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[14]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[15]
+      value: 
+      objectReference: {fileID: 81105478}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
 --- !u!1 &647392254
@@ -737,6 +1147,7 @@ GameObject:
   - component: {fileID: 647392257}
   - component: {fileID: 647392256}
   - component: {fileID: 647392259}
+  - component: {fileID: 647392258}
   m_Layer: 0
   m_Name: Tilemap (Wall)
   m_TagString: Untagged
@@ -998,8 +1409,8 @@ Tilemap:
   - first: {x: 0, y: -3, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 4294967295
+      m_TileIndex: 5
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1008,8 +1419,8 @@ Tilemap:
   - first: {x: 1, y: -3, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 4294967295
+      m_TileIndex: 5
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1018,8 +1429,8 @@ Tilemap:
   - first: {x: 2, y: -3, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 4294967295
+      m_TileIndex: 5
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1028,8 +1439,8 @@ Tilemap:
   - first: {x: 3, y: -3, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 0
-      m_TileSpriteIndex: 4294967295
+      m_TileIndex: 5
+      m_TileSpriteIndex: 1
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1090,6 +1501,66 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 2
       m_TileSpriteIndex: 0
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: -1, y: -1, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 3
+      m_TileSpriteIndex: 3
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 0, y: -1, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 5
+      m_TileSpriteIndex: 1
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 1, y: -1, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 5
+      m_TileSpriteIndex: 1
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 2, y: -1, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 5
+      m_TileSpriteIndex: 1
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 3, y: -1, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 4, y: -1, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -1287,31 +1758,31 @@ Tilemap:
       m_AllTileFlags: 1073741825
   m_AnimatedTiles: {}
   m_TileAssetArray:
-  - m_RefCount: 4
-    m_Data: {fileID: 11400000, guid: 42d5649b5aa534ca2bc841c56ab97d22, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 8
     m_Data: {fileID: 11400000, guid: 1dce2cc2b959441e4b87257bb619685f, type: 2}
   - m_RefCount: 9
     m_Data: {fileID: 11400000, guid: 39dfc37761cba47889d00b2cee886cc2, type: 2}
-  - m_RefCount: 1
+  - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 9b2d0c4b358434de8983137d4a320d6d, type: 2}
-  - m_RefCount: 1
+  - m_RefCount: 3
     m_Data: {fileID: 11400000, guid: a0646c7c408cf4f22b04b838df59fafc, type: 2}
-  - m_RefCount: 24
+  - m_RefCount: 31
     m_Data: {fileID: 11400000, guid: 640481c2c194f4787bbc073219114bbf, type: 2}
   m_TileSpriteArray:
   - m_RefCount: 9
     m_Data: {fileID: 4382146246265151466, guid: f5b1abf883a614aee9210396d08b2a91, type: 3}
-  - m_RefCount: 24
+  - m_RefCount: 31
     m_Data: {fileID: 6662810791413390850, guid: c0f3580d0f64542da976a45c91971a82, type: 3}
   - m_RefCount: 8
     m_Data: {fileID: -3022562378533203328, guid: f5b1abf883a614aee9210396d08b2a91, type: 3}
-  - m_RefCount: 1
+  - m_RefCount: 2
     m_Data: {fileID: -290685798313822401, guid: c0f3580d0f64542da976a45c91971a82, type: 3}
-  - m_RefCount: 1
+  - m_RefCount: 3
     m_Data: {fileID: 4107125826739766776, guid: c0f3580d0f64542da976a45c91971a82, type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 47
+  - m_RefCount: 53
     m_Data:
       e00: 1
       e01: 0
@@ -1330,7 +1801,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 47
+  - m_RefCount: 53
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
@@ -1356,6 +1827,22 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!19719996 &647392258
+TilemapCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 647392254}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_MaximumTileChangeCount: 1000
+  m_ExtrusionFactor: 0.00001
 --- !u!61 &647392259
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1363,7 +1850,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 647392254}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -1382,6 +1869,17 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 4, y: 0.3117211}
   m_EdgeRadius: 0
+--- !u!114 &680025381 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+  m_PrefabInstance: {fileID: 4050601230852692449}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34a08a5c1b6654c4b95bba5ea05320e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &714782057
 GameObject:
   m_ObjectHideFlags: 0
@@ -1415,8 +1913,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   defaultMessage: Default Message
   message:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 11400000, guid: e465a547c7bc245c49ac18d9688a49ba, type: 2}
 --- !u!61 &714782059
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1502,12 +1999,23 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 714782057}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -4, z: 0}
+  m_LocalPosition: {x: -2.69, y: -4.28, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &715478636 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+  m_PrefabInstance: {fileID: 496479393}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34a08a5c1b6654c4b95bba5ea05320e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &726510775
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1563,6 +2071,86 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: objectNeeded
+      value: 
+      objectReference: {fileID: 768152614}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.data[1]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[1]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[2]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[3]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[4]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[5]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[6]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[7]
+      value: 
+      objectReference: {fileID: 81105478}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[8]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[9]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[10]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[11]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[12]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[13]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[14]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[15]
+      value: 
+      objectReference: {fileID: 81105478}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
 --- !u!1 &768152613
@@ -1576,8 +2164,9 @@ GameObject:
   - component: {fileID: 768152616}
   - component: {fileID: 768152615}
   - component: {fileID: 768152614}
+  - component: {fileID: 768152617}
   m_Layer: 0
-  m_Name: Test
+  m_Name: Water Bucket
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1654,12 +2243,38 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 768152613}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.8412613, y: -1.2079312, z: 0}
+  m_LocalPosition: {x: 3.67, y: -3.29, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &768152617
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 768152613}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.031000555, y: -0.1716789}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.50064814, y: 0.6566422}
+  m_EdgeRadius: 0
 --- !u!1001 &822090434
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1719,6 +2334,82 @@ PrefabInstance:
       propertyPath: objectNeeded
       value: 
       objectReference: {fileID: 768152614}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.data[1]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[1]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[2]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[3]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[4]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[5]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[6]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[7]
+      value: 
+      objectReference: {fileID: 81105478}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[8]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[9]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[10]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[11]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[12]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[13]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[14]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[15]
+      value: 
+      objectReference: {fileID: 81105478}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
 --- !u!1 &932181546
@@ -1893,6 +2584,17 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &947065776 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+  m_PrefabInstance: {fileID: 726510775}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34a08a5c1b6654c4b95bba5ea05320e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &973563776
 GameObject:
   m_ObjectHideFlags: 0
@@ -1947,15 +2649,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3712763826721855001, guid: a07ffb2e73c9d44428944a7338e3cb31, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 3712763826721855001, guid: a07ffb2e73c9d44428944a7338e3cb31, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.5
+      value: 4.85
       objectReference: {fileID: 0}
     - target: {fileID: 3712763826721855001, guid: a07ffb2e73c9d44428944a7338e3cb31, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.09000008
+      value: -1.52
       objectReference: {fileID: 0}
     - target: {fileID: 3712763826721855001, guid: a07ffb2e73c9d44428944a7338e3cb31, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2192,6 +2894,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1365576407 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+  m_PrefabInstance: {fileID: 323990472}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34a08a5c1b6654c4b95bba5ea05320e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1448502040
 GameObject:
   m_ObjectHideFlags: 0
@@ -2271,6 +2984,17 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1448502040}
   m_CullTransparentMesh: 1
+--- !u!114 &1484051744 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+  m_PrefabInstance: {fileID: 602622811}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34a08a5c1b6654c4b95bba5ea05320e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1966560220
 GameObject:
   m_ObjectHideFlags: 0
@@ -2493,6 +3217,17 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &2097324213 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+  m_PrefabInstance: {fileID: 311109476}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34a08a5c1b6654c4b95bba5ea05320e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &4050601230852692449
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2506,7 +3241,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4050601230734582713, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 4050601230734582713, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2552,6 +3287,82 @@ PrefabInstance:
       propertyPath: objectNeeded
       value: 
       objectReference: {fileID: 768152614}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: triggerOnStates.Array.data[1]
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[1]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[2]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[3]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[4]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[5]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[6]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[7]
+      value: 
+      objectReference: {fileID: 81105478}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[8]
+      value: 
+      objectReference: {fileID: 680025381}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[9]
+      value: 
+      objectReference: {fileID: 947065776}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[10]
+      value: 
+      objectReference: {fileID: 1365576407}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[11]
+      value: 
+      objectReference: {fileID: 715478636}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[12]
+      value: 
+      objectReference: {fileID: 2097324213}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[13]
+      value: 
+      objectReference: {fileID: 1484051744}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[14]
+      value: 
+      objectReference: {fileID: 508177014}
+    - target: {fileID: 4050601230734582715, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
+      propertyPath: NeededQuestTriggerObjects.Array.data[15]
+      value: 
+      objectReference: {fileID: 81105478}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e26473eaa9af540578565ea2bae97b81, type: 3}
 --- !u!1001 &7714254389078195153
@@ -2575,11 +3386,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7714254389963641482, guid: be016fd93fce54a04ad19479885d0932, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.62
+      value: -0.69
       objectReference: {fileID: 0}
     - target: {fileID: 7714254389963641482, guid: be016fd93fce54a04ad19479885d0932, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.48
+      value: -1.43
       objectReference: {fileID: 0}
     - target: {fileID: 7714254389963641482, guid: be016fd93fce54a04ad19479885d0932, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2676,11 +3487,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7928369963225943038, guid: 95565bf2cba8a496db898ce4d15baab1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.5
+      value: 5.74
       objectReference: {fileID: 0}
     - target: {fileID: 7928369963225943038, guid: 95565bf2cba8a496db898ce4d15baab1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1
+      value: -1.52
       objectReference: {fileID: 0}
     - target: {fileID: 7928369963225943038, guid: 95565bf2cba8a496db898ce4d15baab1, type: 3}
       propertyPath: m_LocalPosition.z

@@ -1,16 +1,19 @@
 fileFormatVersion: 2
-guid: c0f3580d0f64542da976a45c91971a82
+guid: a3c36ff10d9cc474aabc459b9cb95872
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6662810791413390850
-    second: StoneWallMiddle_0
+      213: 4861675613869384404
+    second: Cobblestone Road_0
   - first:
-      213: 4107125826739766776
-    second: StoneWallMiddle_1
+      213: -1909002389588960809
+    second: Cobblestone Road_1
   - first:
-      213: -290685798313822401
-    second: StoneWallMiddle_2
+      213: 1255135028158382579
+    second: Cobblestone Road_2
+  - first:
+      213: 5904618672493520006
+    second: Cobblestone Road_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -60,7 +63,7 @@ TextureImporter:
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: 0
+  spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -112,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: StoneWallMiddle_0
+      name: Cobblestone Road_0
       rect:
         serializedVersion: 2
         x: 0
@@ -123,21 +126,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: -16, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: -6}
-        - {x: -16, y: -6}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20e95db1d1f077c50800000000000000
-      internalID: 6662810791413390850
+      spriteID: 4d22dd96634287340800000000000000
+      internalID: 4861675613869384404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StoneWallMiddle_1
+      name: Cobblestone Road_1
       rect:
         serializedVersion: 2
         x: 32
@@ -148,21 +147,17 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: -16, y: -16}
-        - {x: -12, y: -16}
-        - {x: -12, y: -6}
-        - {x: -16, y: -6}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f508aecd217ff830800000000000000
-      internalID: 4107125826739766776
+      spriteID: 7d99d25e07cd185e0800000000000000
+      internalID: -1909002389588960809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StoneWallMiddle_2
+      name: Cobblestone Road_2
       rect:
         serializedVersion: 2
         x: 64
@@ -173,25 +168,38 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: 12, y: -16}
-        - {x: 16, y: -16}
-        - {x: 16, y: -6}
-        - {x: 12, y: -6}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f37f04a7ec647fbf0800000000000000
-      internalID: -290685798313822401
+      spriteID: 3f1c78a78a22b6110800000000000000
+      internalID: 1255135028158382579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cobblestone Road_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6846d1c066b61f150800000000000000
+      internalID: 5904618672493520006
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
-    physicsShape:
-    - - {x: -16, y: -16}
-      - {x: 16, y: -16}
-      - {x: 16, y: 16}
-      - {x: -16, y: 16}
+    physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
     internalID: 0

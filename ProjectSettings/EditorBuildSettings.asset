@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Fort.unity
     guid: 0fc40de14242c4c8fb2dd3ca3dcc7bc1
+  - enabled: 1
+    path: Assets/Scenes/Alt. Harbor.unity
+    guid: e57cc4e08b46f44979678502c9dcd170
   m_configObjects: {}
