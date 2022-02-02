@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Quests:
   - quest: {fileID: 11400000, guid: ba23770a4f49f4c85af7758c0c1bcfb8, type: 2}
-    dontClearOnLoad: 1
+    dontClearOnLoad: 0
   - quest: {fileID: 11400000, guid: 7a894c52855f14b30bb9449a939a968e, type: 2}
-    dontClearOnLoad: 1
+    dontClearOnLoad: 0
   - quest: {fileID: 11400000, guid: cab1fd360a45644f8b562dec3132f32b, type: 2}
     dontClearOnLoad: 0
   - quest: {fileID: 11400000, guid: b1820d4c2d4ab446089cc3094ed0c4f4, type: 2}
-    dontClearOnLoad: 1
+    dontClearOnLoad: 0
   - quest: {fileID: 11400000, guid: b7fa4f9e50fe6475fb2f692ddfeb7bfe, type: 2}
-    dontClearOnLoad: 1
+    dontClearOnLoad: 0

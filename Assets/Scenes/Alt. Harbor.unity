@@ -814,11 +814,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3712763826721855001, guid: a07ffb2e73c9d44428944a7338e3cb31, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.5
+      value: -7.71
       objectReference: {fileID: 0}
     - target: {fileID: 3712763826721855001, guid: a07ffb2e73c9d44428944a7338e3cb31, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1
+      value: -2.04
       objectReference: {fileID: 0}
     - target: {fileID: 3712763826721855001, guid: a07ffb2e73c9d44428944a7338e3cb31, type: 3}
       propertyPath: m_LocalPosition.z
@@ -858,11 +858,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3712763827556848514, guid: a07ffb2e73c9d44428944a7338e3cb31, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.94
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3712763827556848514, guid: a07ffb2e73c9d44428944a7338e3cb31, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.07
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a07ffb2e73c9d44428944a7338e3cb31, type: 3}
@@ -876,6 +876,10 @@ PrefabInstance:
     - target: {fileID: 1914552285593440833, guid: 1acbeff7c836f4ae98452d0a5230afde, type: 3}
       propertyPath: m_Name
       value: Harbor Setting (Grid)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1914552285593440833, guid: 1acbeff7c836f4ae98452d0a5230afde, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4991047088409791772, guid: 1acbeff7c836f4ae98452d0a5230afde, type: 3}
       propertyPath: m_RootOrder
