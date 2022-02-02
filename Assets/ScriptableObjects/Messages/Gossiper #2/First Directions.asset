@@ -10,12 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7bf00a36510eb46e8aa37e3d3e350df2, type: 3}
-  m_Name: Go to the farm, they may have better answers.
+  m_Name: First Directions
   m_EditorClassIdentifier: 
   _active: 1
-  _message: Head to their family farm, they may have more useful information.
-  quest: {fileID: 0}
-  activeOnStates: 01000000
+  _message: ...Hey. That orange guy is very shady. I heard that he was related to
+    that crazy farm fire.
+  quest: {fileID: 11400000, guid: ba23770a4f49f4c85af7758c0c1bcfb8, type: 2}
+  activeOnStates: 00000000
   triggerQuest: {fileID: 11400000, guid: ba23770a4f49f4c85af7758c0c1bcfb8, type: 2}
-  triggerState: 4
-  triggerOnStates: 01000000
+  triggerState: 1
+  triggerOnStates: 00000000
