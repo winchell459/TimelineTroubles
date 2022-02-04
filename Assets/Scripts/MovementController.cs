@@ -30,6 +30,6 @@ public class MovementController : MonoBehaviour
 
     protected void handleAnimator()
     {
-        anim.SetFloat("velocity", rb.velocity.magnitude);
+        if(anim) anim.SetFloat("velocity", rb.velocity.magnitude);
     }
 }

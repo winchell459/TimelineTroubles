@@ -16,13 +16,19 @@ public class CollisionTrigger : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.transform.CompareTag("Player")) displayMessage(defaultMessage);
-        handlePlayerTagCollisionEnter(collision);
+        if (collision.transform.CompareTag("Player")) //displayMessage(defaultMessage);
+            handlePlayerTagCollisionEnter(collision);
     }
 
     private void OnCollisionExit2D(Collision2D collision)
     {
-        if (collision.transform.CompareTag("Player")) displayClose();
+        if (collision.transform.CompareTag("Player"))
+            handlePlayerTagCollisionExit(collision);
+    }
+
+    virtual protected void handlePlayerTagCollisionExit(Collision2D collision)
+    {
+        displayClose();
     }
 
     virtual protected void handlePlayerTagCollisionEnter (Collision2D collision)
