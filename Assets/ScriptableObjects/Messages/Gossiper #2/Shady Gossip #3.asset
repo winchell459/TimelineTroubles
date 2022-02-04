@@ -17,6 +17,6 @@ MonoBehaviour:
     the entrance, he's over there in the tan clothes. If only I had a pass to enter!
   quest: {fileID: 11400000, guid: b1820d4c2d4ab446089cc3094ed0c4f4, type: 2}
   activeOnStates: 00000000
-  triggerQuest: {fileID: 0}
+  triggerQuest: {fileID: 11400000, guid: b1820d4c2d4ab446089cc3094ed0c4f4, type: 2}
   triggerState: 1
   triggerOnStates: 00000000

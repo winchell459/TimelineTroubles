@@ -16,4 +16,4 @@ MonoBehaviour:
   _message: ...... as I was saying, I heard that the guy in the orange clothes is
     actually an escaped slave!
   quest: {fileID: 11400000, guid: cab1fd360a45644f8b562dec3132f32b, type: 2}
-  activeOnStates: 00000000
+  activeOnStates: 01000000

@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cadf95899ae3a421a8bf4efb2d6882d3, type: 3}
   m_Name: UnlockFort
   m_EditorClassIdentifier: 
-  Name: 
-  ID: 
-  Description: 
-  State: 0
+  Name: Unlock Fort
+  ID: Q4
+  Description: The "Shady Man" has given you a pass to a new opportunity. Is this
+    a blessing, or a curse?
+  State: 4

@@ -9,11 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 543059e7dd137450389bcf4242c334b7, type: 3}
-  m_Name: MessageLoadScene - Main Menu
+  m_Script: {fileID: 11500000, guid: 7bf00a36510eb46e8aa37e3d3e350df2, type: 3}
+  m_Name: First Remarks
   m_EditorClassIdentifier: 
   _active: 0
-  _message: Portal's Working!
+  _message: 'So, my brother sent me this? Heh. Why don''t you help me out here and
+    I may help you. '
   quest: {fileID: 11400000, guid: b7fa4f9e50fe6475fb2f692ddfeb7bfe, type: 2}
-  activeOnStates: 05000000
-  sceneName: MainMenu
+  activeOnStates: 00000000
+  triggerQuest: {fileID: 11400000, guid: b7fa4f9e50fe6475fb2f692ddfeb7bfe, type: 2}
+  triggerState: 1
+  triggerOnStates: 00000000

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 543059e7dd137450389bcf4242c334b7, type: 3}
   m_Name: Message Load Scene - Fort
   m_EditorClassIdentifier: 
-  _active: 1
-  _message: Portal's Working!
-  quest: {fileID: 0}
-  activeOnStates: 
+  _active: 0
+  _message: Follow me to the fort.
+  quest: {fileID: 11400000, guid: b1820d4c2d4ab446089cc3094ed0c4f4, type: 2}
+  activeOnStates: 020000000400000005000000
   sceneName: Fort

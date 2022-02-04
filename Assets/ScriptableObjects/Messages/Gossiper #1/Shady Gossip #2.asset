@@ -15,7 +15,7 @@ MonoBehaviour:
   _active: 0
   _message: Don't tell him, he'll rat us out to the soldiers!
   quest: {fileID: 11400000, guid: cab1fd360a45644f8b562dec3132f32b, type: 2}
-  activeOnStates: 00000000
+  activeOnStates: 01000000
   triggerQuest: {fileID: 11400000, guid: cab1fd360a45644f8b562dec3132f32b, type: 2}
   triggerState: 2
-  triggerOnStates: 00000000
+  triggerOnStates: 01000000

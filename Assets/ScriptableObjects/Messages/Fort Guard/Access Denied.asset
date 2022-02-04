@@ -9,11 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 543059e7dd137450389bcf4242c334b7, type: 3}
-  m_Name: MessageLoadScene - Main Menu
+  m_Script: {fileID: 11500000, guid: b8b8c2d0a7cfb470cb99775fc7a7101c, type: 3}
+  m_Name: Access Denied
   m_EditorClassIdentifier: 
   _active: 0
-  _message: Portal's Working!
-  quest: {fileID: 11400000, guid: b7fa4f9e50fe6475fb2f692ddfeb7bfe, type: 2}
-  activeOnStates: 05000000
-  sceneName: MainMenu
+  _message: Sorry, but you do not have access to the fort. Please leave.
+  quest: {fileID: 11400000, guid: b1820d4c2d4ab446089cc3094ed0c4f4, type: 2}
+  activeOnStates: 0000000001000000

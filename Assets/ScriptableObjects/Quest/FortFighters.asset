@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cadf95899ae3a421a8bf4efb2d6882d3, type: 3}
   m_Name: FortFighters
   m_EditorClassIdentifier: 
-  Name: 
-  ID: 
-  Description: 
+  Name: Fort Fighters
+  ID: Q5
+  Description: Meet up with the captain and see if you can finally get some useful
+    info. But who is that person lurking in the shadows?
   State: 0

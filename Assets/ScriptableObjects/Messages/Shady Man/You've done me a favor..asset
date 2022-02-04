@@ -13,11 +13,10 @@ MonoBehaviour:
   m_Name: You've done me a favor.
   m_EditorClassIdentifier: 
   _active: 0
-  _message: All you need to do with the pass is go to the fort; I'd like you to take
-    this package to the captain. He's the one in black clothes. I'll repay the favor
-    to you. Promise.
+  _message: 'All you need to do with the pass is go to the fort; I''d like you to
+    take this package to the captain. '
   quest: {fileID: 11400000, guid: cab1fd360a45644f8b562dec3132f32b, type: 2}
   activeOnStates: 05000000
   triggerQuest: {fileID: 11400000, guid: b1820d4c2d4ab446089cc3094ed0c4f4, type: 2}
   triggerState: 2
-  triggerOnStates: 00000000
+  triggerOnStates: 05000000

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: I'll report them when you leave.
   m_EditorClassIdentifier: 
   _active: 0
-  _message: I'll report them when you leave. Take this, it will let you pass the
-    guards freely. Consider it my thanks.
+  _message: 'I''ll report them when you leave. Take this, it will let you pass the
+    guards freely. '
   quest: {fileID: 11400000, guid: cab1fd360a45644f8b562dec3132f32b, type: 2}
   activeOnStates: 04000000
   triggerQuest: {fileID: 11400000, guid: cab1fd360a45644f8b562dec3132f32b, type: 2}

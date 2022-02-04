@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cadf95899ae3a421a8bf4efb2d6882d3, type: 3}
   m_Name: DockDrama
   m_EditorClassIdentifier: 
-  Name: 
-  ID: 
-  Description: 
+  Name: Dock Drama
+  ID: Q3
+  Description: What is going on? Return back to the harbor to find out what tea is
+    brewing.
   State: 0
